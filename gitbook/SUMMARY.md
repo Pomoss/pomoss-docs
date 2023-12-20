@@ -1,3 +1,3 @@
 # Table of contents
 
-* [What's Pomoss?](README.md)
+* [Welcome](README.md)
